@@ -1,5 +1,4 @@
-"""
-1st Assignment - Write a Python program to perform following operations on Lists :
+""" - Write a Python program to perform following operations on Lists :
 a) Create and access list elements
 b) Add and Remove list elements
 c) Sort list element
