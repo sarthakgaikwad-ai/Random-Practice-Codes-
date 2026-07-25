@@ -17,3 +17,9 @@ except ValueError:
 
 except IndexError:
     print("IndexError: Index out of range.")
+
+    # output
+# How many elements do you want to add? 2
+# Enter element 1: 1
+# Enter element 2: 2
+# Your list: [1, 2]
