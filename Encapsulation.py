@@ -9,3 +9,6 @@ class Car():
 
 mycar=Car("TATA","Nexon")
 print(mycar.get_brand())
+
+# Output 
+# TATA!
