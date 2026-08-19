@@ -34,3 +34,14 @@ store.add_mobile(m2)
 store.add_mobile(m3)
 
 store.display_all()
+
+#output
+# Brand: Apple
+# Model: iPhone 15
+# Price: 60000
+# Brand: Samsung
+# Model: A55
+# Price: 35000
+# Brand: Redmi
+# Model: Note 13
+# Price: 15000
